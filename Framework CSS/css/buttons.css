@@ -1,0 +1,30 @@
+a{
+  text-decoration: none;
+  color: rgba(var(--neutralColor),1);
+  font-size: var(--baseUnit);
+}
+
+a:hover{
+  background-color: rgba(var(--neutralColor),.75);
+  color: white;
+}
+
+.primary--link{
+  color: rgba(var(--primaryColor),1);
+}
+
+.primary--link:hover{
+  background-color: rgba(var(--primaryColor),.75);
+}
+
+.big--link{
+  font-size: calc(var(--baseUnit) * 1.25);
+}
+
+.small--link{
+  font-size: calc(var(--baseUnit) * .75);
+}
+
+button, .button{
+
+}
