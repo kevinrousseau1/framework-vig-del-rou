@@ -1,0 +1,8 @@
+.grid-container {
+  position: relative;
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 30px;
+	/* by default use min 200px wide columns auto-fit into width */
+  grid-template-columns: minmax(200px, 1fr);
+}
