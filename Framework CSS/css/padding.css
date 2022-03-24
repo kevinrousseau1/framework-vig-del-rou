@@ -1,0 +1,11 @@
+.padding p{
+  padding : var(--baseUnit);
+}
+
+.padding-x2, .px2 {
+  padding: calc(var(--baseUnit)*2);
+}
+
+.padding-right, .pr {
+  padding-right: var(--baseUnit);
+}

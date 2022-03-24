@@ -1,7 +1,9 @@
 @import "reset.css";
-@import "typo.css";
 @import "variables.css";
 @import "buttons.css";
+@import "typo.css";
+@import "cards.css";
+@import "padding.css";
 @import "footer.css";
 @import "forms.css";
 @import "grid.css";
@@ -9,4 +11,3 @@
 @import "links.css";
 @import "lists.css";
 @import "tables.css";
-
